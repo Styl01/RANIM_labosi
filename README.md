@@ -1,4 +1,5 @@
 # Računalna animacija - laboratorijske vježbe
+Oton Stilinović
 za previđenje pojedine vježbe potrebno je uđi u željeni direktorij(npr. ¨lab1¨), te pomoću g++ prevoditelja prevesti: 
 
 ```
